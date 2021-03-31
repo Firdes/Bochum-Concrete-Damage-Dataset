@@ -1,5 +1,5 @@
 # Bochum Concrete Damage Datasets
-
+Furher datasets on concrete damage will be published here soon.
 # Bochum Concrete Crack Dataset
   - Citation
  
