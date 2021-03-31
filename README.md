@@ -1,6 +1,6 @@
-# Bochum-Concrete-Damage-Dataset
+# Bochum Concrete Damage Datasets
 
-# Concrete Crack Dataset
+# Bochum Concrete Crack Dataset
   - Citation
  
   - Abstract
